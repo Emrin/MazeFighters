@@ -22,4 +22,3 @@ They remember where they've been and update their paths so that when they back-t
 
 Sometimes passing through enemies without damaging them.
 When starting to backtrack, disappearing for 1 frame worth of time.
-Ants, bees and beetles.
