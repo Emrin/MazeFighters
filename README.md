@@ -1,5 +1,7 @@
 # MazeFighters
 
+Explanatory video: https://www.youtube.com/watch?v=exa_a3a9Re4
+
 -Description
 
 A multithreaded, self-sufficient application. Fully coded in C#.
